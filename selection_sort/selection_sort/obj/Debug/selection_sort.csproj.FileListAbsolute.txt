@@ -1,0 +1,8 @@
+D:\UST\Day2\selection_sort\selection_sort\bin\Debug\selection_sort.exe.config
+D:\UST\Day2\selection_sort\selection_sort\bin\Debug\selection_sort.exe
+D:\UST\Day2\selection_sort\selection_sort\bin\Debug\selection_sort.pdb
+D:\UST\Day2\selection_sort\selection_sort\obj\Debug\selection_sort.csproj.AssemblyReference.cache
+D:\UST\Day2\selection_sort\selection_sort\obj\Debug\selection_sort.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day2\selection_sort\selection_sort\obj\Debug\selection_sort.csproj.CoreCompileInputs.cache
+D:\UST\Day2\selection_sort\selection_sort\obj\Debug\selection_sort.exe
+D:\UST\Day2\selection_sort\selection_sort\obj\Debug\selection_sort.pdb
